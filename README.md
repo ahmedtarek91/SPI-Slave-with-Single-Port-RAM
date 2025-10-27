@@ -1,4 +1,4 @@
-# SPI Slave with single port RAM - UVM Verification Project
+# SPI Slave with Single Port RAM: Design and Verification
 
 This repository contains the RTL design and a complete UVM verification environment for the SPI SLave, SPI Ram and SPI Wrapper.
 
