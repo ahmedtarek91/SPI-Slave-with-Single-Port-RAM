@@ -6,7 +6,7 @@ This repository contains the RTL design and a complete UVM verification environm
 
 For a complete and detailed explanation of the project, please refer to the full project document:
 
-**[View Project PDF (SP_ Project (2).pdf)](./SPI_Slave_with_Single_port_Ram.pdf)**
+**[View Project PDF](./SPI_Slave_with_Single_port_Ram.pdf)**
 
 ## UVM Verification Architecture
 
