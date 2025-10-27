@@ -8,7 +8,7 @@ For a complete and detailed explanation of the project, please refer to the full
 
 **[View Project PDF](./SPI_Slave_with_Single_port_Ram.pdf)**
 
-## UVM Verification Architecture
+## UVM hierarchy 
 
 ![UVM Verification Environment Block Diagram](./Wrapper.svg)
 
